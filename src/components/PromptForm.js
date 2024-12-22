@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import fetchImages from './FetchImages';  // Import the API call function
-import axios from "axios";
+// import axios from "axios";
 
 const PromptForm = ({ setImages }) => {
     // Pre-defined prompts
@@ -20,8 +20,8 @@ const PromptForm = ({ setImages }) => {
     // States for user-entered prompts and selected predefined prompt
     const [customPrompt, setCustomPrompt] = useState(""); // State For the user-entered prompt
     const [selectedPrompt, setSelectedPrompt] = useState(""); // State  For the predefined prompt
-    const [query, setQuery] = useState("");
-    const [prompt, setPrompt] = useState("");
+    // const [query, setQuery] = useState("");
+    // const [prompt, setPrompt] = useState("");
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
 
