@@ -2,7 +2,7 @@
   "name": "prompt-image-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ersinaksar.github.io/prompt-image-app",
+  "homepage": "https://promptpix.art",
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
