@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d12c6cbe-284c-48da-8418-082949be0ef8/deploy-status)](https://app.netlify.com/sites/promptpix/deploys)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
