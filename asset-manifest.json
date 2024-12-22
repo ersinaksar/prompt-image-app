@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prompt-image-app/static/css/main.0a2ef8cc.css",
+    "main.js": "/prompt-image-app/static/js/main.a79d9076.js",
+    "index.html": "/prompt-image-app/index.html",
+    "main.0a2ef8cc.css.map": "/prompt-image-app/static/css/main.0a2ef8cc.css.map",
+    "main.a79d9076.js.map": "/prompt-image-app/static/js/main.a79d9076.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a2ef8cc.css",
+    "static/js/main.a79d9076.js"
+  ]
+}
